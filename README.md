@@ -54,3 +54,18 @@
 
 -- remove min or max --
 * myList.remove(min(myList)) // return None
+
+-- lower string --
+* myStr.lower()
+
+-- upper string --
+* myStr.upper()
+
+--  accessing index in for loop --
+* for i, vlaue in enumerate(values)
+
+-- trim string --
+* myStr.strip()
+
+-- isalpha --
+* letter.isalpha()
